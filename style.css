@@ -1,0 +1,23 @@
+body {
+    background-image: url('BG.png.jpg');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position:1000;
+  }
+
+.header{
+ justify-content: center;   
+ display: flex;
+ padding-top: 200px;
+ margin-right: 2300px;
+}
+
+.item{
+padding-top: 10px;
+    padding-left: 160px;
+}
+
+.grid{
+    padding-top: 10px;
+    padding-left: 350px;
+}
